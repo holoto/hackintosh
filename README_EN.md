@@ -1,22 +1,21 @@
-# 远程安装黑苹果服务
-##最新OSX稳定版 osx10.11.5
-## 系统支持苹果官方升级
-# 设备驱动
-## 包三卡驱动(显卡,声卡,网卡)
-## CPU自动变频
-## USB(2.0,3.0)驱动
-## HDMI,DVI 视频输出
-## 笔记本驱动
-## FN快捷键
-## 笔记本电池驱动
-## 屏幕亮度调节
-# 售后服务
-## 三年免费售后
-
+# hackintosh Remote Installation Service
+## The latest stable version OSX osx10.11.5
+## The system supports the Apple official upgrade
+# Device Driver
+## Three-card packet driver (video card, sound card, network card)
+## CPU automatic frequency
+## USB (2.0,3.0) drive
+## HDMI, DVI video output
+## Notebook drive
+## FN shortcuts
+## Battery-powered laptop
+## Screen brightness adjustment
+# Service
+## Years free sale
 #
-#[黑苹果安装链接](https://2.taobao.com/item.htm?id=534357762529)
+#[hackintosh install url](https://2.taobao.com/item.htm?id=534357762529)
 #
-#黑苹果截图
+#hackintosh Screenshot
 ![http://7xv1u3.com1.z0.glb.clouddn.com/dash-app1.png](http://7xv1u3.com1.z0.glb.clouddn.com/dash-app1.png)
 ![http://7xv1u3.com1.z0.glb.clouddn.com/dash-app3.png](http://7xv1u3.com1.z0.glb.clouddn.com/dash-app3.png)
 ![http://7xv1u3.com1.z0.glb.clouddn.com/dash-app2.png](http://7xv1u3.com1.z0.glb.clouddn.com/dash-app2.png)
