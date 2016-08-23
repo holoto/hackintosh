@@ -14,17 +14,31 @@
 ## Years free sale
 #
 #[hackintosh install url](https://2.taobao.com/item.htm?spm=2007.1000622.0.0.PA1cga&id=537241401398)
+#scan qr code ;is my wechat
+![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg)
 #
 #hackintosh Screenshot
-![http://7xv1u3.com1.z0.glb.clouddn.com/dash-app1.png](http://7xv1u3.com1.z0.glb.clouddn.com/dash-app1.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/dash-app3.png](http://7xv1u3.com1.z0.glb.clouddn.com/dash-app3.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/dash-app2.png](http://7xv1u3.com1.z0.glb.clouddn.com/dash-app2.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/mycpu.png](http://7xv1u3.com1.z0.glb.clouddn.com/mycpu.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/hwmonitr.png](http://7xv1u3.com1.z0.glb.clouddn.com/hwmonitr.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/GAME2.png](http://7xv1u3.com1.z0.glb.clouddn.com/GAME2.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/GAME3.png](http://7xv1u3.com1.z0.glb.clouddn.com/GAME3.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/Screen%20Shot%202016-06-12%20at%2011.41.02%20AM.png](http://7xv1u3.com1.z0.glb.clouddn.com/Screen%20Shot%202016-06-12%20at%2011.41.02%20AM.png)
-![http://7xv1u3.com1.z0.glb.clouddn.com/Screen%20Shot%202016-06-11%20at%2011.37.17%20PM.png](http://7xv1u3.com1.z0.glb.clouddn.com/Screen%20Shot%202016-06-11%20at%2011.37.17%20PM.png)
+![1](http://7xqnms.media1.z0.glb.clouddn.com/desktop2.png)
+
+![1das](http://7xqnms.media1.z0.glb.clouddn.com/dash1.png)
+
+![d1](http://7xqnms.media1.z0.glb.clouddn.com/dash2.png)
+
+![1dasd](http://7xqnms.media1.z0.glb.clouddn.com/dash3.png)
+
+![12](http://7xqnms.media1.z0.glb.clouddn.com/disk_orgin.png)
+
+![1223](http://7xqnms.media1.z0.glb.clouddn.com/camera.png)
+
+![144](http://7xqnms.media1.z0.glb.clouddn.com/alc269.png)
+
+![551](http://7xqnms.media1.z0.glb.clouddn.com/disk.png)
+
+![ad1](http://7xqnms.media1.z0.glb.clouddn.com/hd4000.png)
+
+![ad11](http://7xqnms.media1.z0.glb.clouddn.com/meroy.png)
+
+![dasds](http://7xqnms.media1.z0.glb.clouddn.com/opengl.png)
 
 
 
