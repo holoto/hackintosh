@@ -14,7 +14,7 @@
 ## 三年免费售后
 
 #
-#[黑苹果安装链接](https://2.taobao.com/item.htm?id=534357762529)
+#[黑苹果安装链接](https://2.taobao.com/item.htm?spm=2007.1000622.0.0.PA1cga&id=537241401398)
 #
 #黑苹果截图
 ![http://7xv1u3.com1.z0.glb.clouddn.com/dash-app1.png](http://7xv1u3.com1.z0.glb.clouddn.com/dash-app1.png)
