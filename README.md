@@ -14,7 +14,7 @@
 ## 三年免费售后
 
 #
-#[黑苹果安装链接](https://2.taobao.com/item.htm?spm=2007.1000622.0.0.PA1cga&id=537241401398)
+#[黑苹果安装链接](http://a.lkjujm.com/F.bWHJY?ut_sk=1.VgFrtjzRadUDAFGGbWOeInAu_21407387_1475671154035.Copy.detail)
 #扫描下方的二维码 加我微信
 ![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg)
 #
