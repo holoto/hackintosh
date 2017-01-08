@@ -13,7 +13,7 @@
 # Service
 ## Years free sale
 #
-#[hackintosh install url](http://a.lkjujm.com/F.bWHJY?ut_sk=1.VgFrtjzRadUDAFGGbWOeInAu_21407387_1475671154035.Copy.detail)
+#[hackintosh install url](http://a.iopiopl.com/F.YSwrX)
 #scan qr code ;is my wechat
 ![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg)
 #
