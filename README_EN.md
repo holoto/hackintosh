@@ -12,13 +12,32 @@
 ## Screen brightness adjustment
 # Service
 ## Years free sale
-#
-#[hackintosh install url](http://a.iopiopl.com/F.YSwrX)
-#scan qr code ;is my wechat
+
+
+# scan qr code ;is my wechat
+
 ![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg)
-#
+
 #hackintosh Screenshot
-![1](http://7xqnms.media1.z0.glb.clouddn.com/desktop2.png)
+
+![l1QmS.png](https://s1.ax2x.com/2018/04/20/l1QmS.png)
+![l1Yxz.png](https://s1.ax2x.com/2018/04/20/l1Yxz.png)
+![l1Whh.png](https://s1.ax2x.com/2018/04/20/l1Whh.png)
+![l1dkH.png](https://s1.ax2x.com/2018/04/20/l1dkH.png)
+![l1GDN.png](https://s1.ax2x.com/2018/04/20/l1GDN.png)
+![l1Mpu.png](https://s1.ax2x.com/2018/04/20/l1Mpu.png)
+![l1O19.png](https://s1.ax2x.com/2018/04/20/l1O19.png)
+![l1sdO.png](https://s1.ax2x.com/2018/04/20/l1sdO.png)
+![l1boA.png](https://s1.ax2x.com/2018/04/20/l1boA.png)
+![l1urq.png](https://s1.ax2x.com/2018/04/20/l1urq.png)
+![l1Zzd.png](https://s1.ax2x.com/2018/04/20/l1Zzd.png)
+![l14xe.png](https://s1.ax2x.com/2018/04/20/l14xe.png)
+![l1hhR.png](https://s1.ax2x.com/2018/04/20/l1hhR.png)
+![l1vkr.png](https://s1.ax2x.com/2018/04/20/l1vkr.png)
+
+
+
+<!-- ![1](http://7xqnms.media1.z0.glb.clouddn.com/desktop2.png)
 
 ![1das](http://7xqnms.media1.z0.glb.clouddn.com/dash1.png)
 
@@ -38,7 +57,7 @@
 
 ![ad11](http://7xqnms.media1.z0.glb.clouddn.com/meroy.png)
 
-![dasds](http://7xqnms.media1.z0.glb.clouddn.com/opengl.png)
+![dasds](http://7xqnms.media1.z0.glb.clouddn.com/opengl.png) -->
 
 
 
