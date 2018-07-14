@@ -1,10 +1,12 @@
 # 远程安装黑苹果服务
-## 最新OSX稳定版 osx10.13.4
+## 最新OSX稳定版 osx10.13.6
 ## 系统支持苹果官方升级
 # 设备驱动
 ## 包三卡驱动(显卡,声卡,网卡)
 ## CPU自动变频
 ## USB(2.0,3.0)驱动
+## facetime
+## message
 ## HDMI,DVI 视频输出
 ## 笔记本驱动
 ## FN快捷键
@@ -26,6 +28,10 @@
 
 # 黑苹果截图
 
+![PMFhIs.png](https://s1.ax1x.com/2018/07/14/PMFhIs.png)
+![PMFWZQ.png](https://s1.ax1x.com/2018/07/14/PMFWZQ.png)
+![PMF5in.png](https://s1.ax1x.com/2018/07/14/PMF5in.png)
+![PMFIGq.png](https://s1.ax1x.com/2018/07/14/PMFIGq.png)
 ![l1QmS.png](https://s1.ax2x.com/2018/04/20/l1QmS.png)
 ![l1Yxz.png](https://s1.ax2x.com/2018/04/20/l1Yxz.png)
 ![l1Whh.png](https://s1.ax2x.com/2018/04/20/l1Whh.png)
@@ -40,6 +46,12 @@
 ![l14xe.png](https://s1.ax2x.com/2018/04/20/l14xe.png)
 ![l1hhR.png](https://s1.ax2x.com/2018/04/20/l1hhR.png)
 ![l1vkr.png](https://s1.ax2x.com/2018/04/20/l1vkr.png)
+![PMF9bQ.png](https://s1.ax1x.com/2018/07/14/PMF9bQ.png)
+## facetime
+![PMFZvT.png](https://s1.ax1x.com/2018/07/14/PMFZvT.png)
+## message
+![PMFQa9.png](https://s1.ax1x.com/2018/07/14/PMFQa9.png)
+
 
 
 
