@@ -24,7 +24,8 @@
 
 # 扫描下方的二维码 加我微信
 
-![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg)
+<!-- ![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg) -->
+![iUbLVA.png](https://s1.ax1x.com/2018/10/15/iUbLVA.png)
 
 # 黑苹果截图
 

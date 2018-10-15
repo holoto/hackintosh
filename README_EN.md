@@ -18,7 +18,8 @@
 
 # scan qr code ;is my wechat
 
-![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg)
+<!-- ![微信](http://7xqnms.media1.z0.glb.clouddn.com/WechatIMG2.jpeg) -->
+![iUbLVA.png](https://s1.ax1x.com/2018/10/15/iUbLVA.png)
 <!-- ![l1zW2.jpg](https://s1.ax2x.com/2018/04/20/l1zW2.jpg) -->
 <!-- ![l1XoQ.jpg](https://s1.ax2x.com/2018/04/20/l1XoQ.jpg) -->
 <!-- ![l1Vra.jpg](https://s1.ax2x.com/2018/04/20/l1Vra.jpg) -->
